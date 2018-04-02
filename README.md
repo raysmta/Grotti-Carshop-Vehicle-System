@@ -1,6 +1,12 @@
 # Grotti-Carshop-Vehicle-System
 Grotti Cars (Carshop & Basic Vehicle System)
 
+========================================
+
+Script Preview: https://youtu.be/HN5HiZ6jeeU
+
+=========================================
+
 This was a very old script that I had made a while back, but sadly didn't finish. However, today I present to you the very first Development BETA of this Script. The GUI has been switched to Multi Theft Auto's Standard GUI System. However, I do plan on moving to a more advance Dx Library if it manages to reach a certain number of downloads/votes. The Script is written in plain LUA, and requires the 2 resources called 'cpicker' (Colour Picker) and 'notifications' for side-notifications that appear when toggling certain events for the vehicle.
 
 The Carshop was originally inspired from a Standard RPG Server, it includes a few features and gives the player to ability to a own a permanent car. The previous Grotti Carshop that was under development was basic, allowing you to purchase a vehicle without any standard vehicle adjustments. This however has been updated.
