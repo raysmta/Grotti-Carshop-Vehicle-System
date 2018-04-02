@@ -1,0 +1,31 @@
+<vehicles>
+	<!-- 
+	To add in a new vehicle simply copy this line, 
+	
+	<vehicle name="Vehicle Name" price="Number" />
+	
+	You can get the vehicle names from here,
+	https://wiki.multitheftauto.com/wiki/Vehicle_IDs
+	-->
+	<vehicle name="Banshee" price="80000" />
+	<vehicle name="Bullet" price="45000" />
+	<vehicle name="Cheetah" price="60000" />
+	<vehicle name="Comet" price="35000" />
+	<vehicle name="Elegy" price="48000" />
+	<vehicle name="Flash" price="35000" />
+	<vehicle name="Hotknife" price="30000" />
+	<vehicle name="Hotring Racer" price="80000" />
+	<vehicle name="Hotring Racer 2" price="82000" />
+	<vehicle name="Hotring Racer 3" price="83000" />
+	<vehicle name="Infernus" price="95000" />
+	<vehicle name="Jester" price="60000" />
+	<vehicle name="Stratum" price="25000" />
+	<vehicle name="Sultan" price="58000" />
+	<vehicle name="Super GT" price="30000" />
+	<vehicle name="Turismo" price="90000" />
+	<vehicle name="Uranus" price="19000" />
+	<vehicle name="Windsor" price="19500" />
+	<vehicle name="ZR-350" price="40000" />
+	<!-- Example -->
+	<!-- <vehicle name="Blade" price="20000" /> -->
+</vehicles>
