@@ -1,9 +1,0 @@
-<meta>
-	<info author="RaysMTA" type="script" name="Grotti Cars 0.25d - Stable" />
-	
-	<!-- Please do not remove anything from here to prevent any errors -->
-	<script src="c_grotti.lua" type="client" />
-	<script src="s_grotti.lua" type="server" />
-	
-	<config src="vehicles.xml" type="client" />
-</meta>
