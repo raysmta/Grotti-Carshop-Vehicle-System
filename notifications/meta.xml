@@ -1,0 +1,7 @@
+<meta>
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+
+	<export function="outputClientDx" type="client" />
+	<export function="outputDx" type="server" />
+</meta>
